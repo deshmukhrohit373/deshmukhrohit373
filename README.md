@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @irohit373
-- 👀 I’m interested in DSA, Python, etc.
-- 🌱 I’m currently learning Pyhton
-- 💞️ I’m looking to collaborate on OSP
+- 👀 I’m interested in AOSP, DSA, Python, etc.
+- 🌱 I’m currently learning JavaAOSPdevelopment
+- 💞️ I’m looking to collaborate on AOSP
 - 📫 deshmukhrohit373@gmail.com
 
 <!---
